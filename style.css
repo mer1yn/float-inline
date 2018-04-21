@@ -1,0 +1,35 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  width: 33.33%;
+  height: 400px;
+  float: left;
+  background-color: rgb(43, 222, 141);
+}
+
+div > img {
+  display: block;
+  width: 100%;
+}
+
+.uno {
+  width: 25%;
+  background-color: rgb(171, 74, 198);
+}
+
+.dos {
+  width: 35%;
+  background-color: rgb(38, 245, 172);
+}
+
+.tres {
+  width: 40%;
+  background-color: rgb(74, 232, 12);
+}
+
+/* .gg {
+  width: 50%;
+} */
